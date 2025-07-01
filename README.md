@@ -1,10 +1,13 @@
+# Hi there! 👋
+
+This GitHub repository provides code for modern dashboard designs wth Visactor library and the NextJS framework
+
 # VisActor Next.js Dashboard Template
 
 A modern dashboard template built with [VisActor](https://visactor.io/) and Next.js, featuring a beautiful UI and rich data visualization components.
 
-[Live Demo](https://visactor-next-template.vercel.app/)
+[Live Demo](https://nickdash.vercel.app/)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?demo-description=A%20modern%20dashboard%20with%20VisActor%20charts%2C%20dark%20mode%2C%20and%20data%20visualization%20for%20seamless%20analytics.&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F646TLqKGSTOnp1CD1IUqoM%2Fa119adac1f5a844f9d42f807ddc075f5%2Fthumbnail.png&demo-title=VisActor%20Next.js%20Template&demo-url=https%3A%2F%2Fvisactor-next-template.vercel.app%2F&from=templates&project-name=VisActor%20Next.js%20Template&repository-name=visactor-nextjs-template&repository-url=https%3A%2F%2Fgithub.com%2Fmengxi-ream%2Fvisactor-next-template&skippable-integrations=1)
 
 ## Features
 
@@ -27,14 +30,13 @@ A modern dashboard template built with [VisActor](https://visactor.io/) and Next
 
 ## Quick Start
 
-You can deploy this template to Vercel by clicking the button above, or clone this repository and run it locally.
+You can deploy this template to your local machine by cloning this repository and run it locally.
 
-[Github Repo](https://github.com/mengxi-ream/visactor-next-template)
 
 1. Clone this repository
 
 ```bash
-git clone https://github.com/mengxi-ream/visactor-next-template
+git clone https://github.com/nicksakwa/nextjs-dashboard-with-visaactor-lib/
 ```
 
 2. Install dependencies
@@ -78,16 +80,3 @@ This template includes several chart examples:
 - Customer Satisfaction (Linear Progress)
 - Metrics Overview
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- [VisActor](https://visactor.io/) - For the amazing visualization library
-- [Vercel](https://vercel.com) - For the incredible deployment platform
-- [Next.js](https://nextjs.org/) - For the awesome React framework
